@@ -1,1 +1,4 @@
-Copy your URL to screenshot here
+- setiap group bisa memiliki lebih dari satu kontak
+- setiap kontak bisa masuk ke beberapa group (many to many)
+
+you can access ==> https://imgur.com/ApUiKGW
